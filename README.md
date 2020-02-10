@@ -3,12 +3,12 @@
 
 # CBE 32338 Process Control Laboratory
 
-This repository comprises a collection of Jupyter/Python notebooks in support of **CBE 30338 Chemical Process Control**
-taught at the University of Notre Dame.
+This repository comprises a collection of Jupyter/Python notebooks supporting the hands on learning of process
+control in the laboratory sessions associated with **CBE 32338 Chemical Process Control** taught at the University
+of Notre Dame.
 
-The links below display the notebooks as regular HTML web pages. From there you can run the notebook on
-[Google Colaboratory](https://colab.research.google.com) or download to run on your own laptop. To run on your own
-laptop you will need to install Jupyter and Python 3, such as the excellent
+The links below display the notebooks as HTML web pages. You can download these notebooks to run on your own laptop. 
+To run on your own laptop you will need to install Jupyter and Python 3, such as the
 [Anaconda distribution from Continuum Analytics](https://www.continuum.io/downloads).
 
 Please let me know (jeff at nd.edu) if you any thoughts or suggestions on how these notebooks could be improved for
@@ -84,11 +84,6 @@ teaching and learning the principles of Chemical Process Control.
 ### [Chapter 8.0 Predictive Control](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/08.00-Predictive-Control.ipynb)
 - [8.1 Zero-Order Hold and Interpolation](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/08.01-Zero-Order-Hold-and-Interpolation.ipynb)
 
-### [Chapter 9.0 Discrete Events](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/09.00-Discrete-Events.ipynb)
-- [9.1 Scheduling State-Task Networks](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/09.01-Scheduling-Multipurpose-Batch-Processes-using-State--Task-Networks.ipynb)
-- [9.2 State-Task Networks](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/09.02-State--Task-Networks.ipynb)
-- [9.3 Machine Bottleneck](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/09.03-Machine-Bottleneck.ipynb)
-
 ### [Appendix A. Additional Python](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/A.00-Additional-Python.ipynb)
 - [A.1 Modular Simulation using Python Generators](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/A.01-Modular-Approach-to-Simulation-using-Python-Generators.ipynb)
 - [A.2 Animation in Jupyter Notebooks](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/A.02-Animation-in-Jupyter-Notebooks.ipynb)
@@ -110,14 +105,9 @@ teaching and learning the principles of Chemical Process Control.
 - [B.13 Simulation, Control, and Estimation using Pyomo](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/B.13-Optimization-Control-and-Estimation-using-Pyomo.ipynb)
 - [B.14 Simulation, Control, and Estimation using Pyomo](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/B.14-Optimization-Control-and-Estimation-using-Pyomo-With-Windows-ipopt.ipynb)
 
-### [Appendix C. Student Projects](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/C.00-Student-Projects.ipynb)
-- [C.1 Diabetes: Controlling Blood Glucose Concentrations](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/C.01-Diabetes-Controlling-Blood-Glucose-Concentrations.ipynb)
-- [C.2 Visual Tracking of an Object with a Drone](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/C.02-Visual-Tracking-of-an-Object-with-a-Drone.ipynb)
-
 
 **License Requirements.** The materials in this repository are available at
 [https://github.com/jckantor/CBE2338.git](https://github.com/jckantor/CBE2338.git) for noncommercial use under terms of the
 [Creative Commons Attribution Noncommericial ShareAlike License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 You are invited to fork this repository, and to use, adapt, remix these material for non-commericial purposes. The
-license terms require you to give attribution and share your work under the same terms. Pull requests for corrections
-and additions to these materials are most welcome.
+license terms require you to give attribution and share your work under the same terms.
