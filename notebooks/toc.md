@@ -1,6 +1,34 @@
 # [CBE32338](https://jckantor.github.io/CBE32338)
 
 
+## [Chapter 1.0 The Temperature Control Laboratory](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.00-TCLab.ipynb)
+- [Hardware](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.00-TCLab.ipynb#Hardware)
+* Markdown Links
+    - [Temperature Control Laboratory](http://apmonitor.com/pdc/index.php/Main/ArduinoTemperatureControl)
+    - [TCLab](https://github.com/jckantor/TCLab)
+    - [README](https://github.com/jckantor/TCLab/blob/master/README.rst)
+    - [here](https://github.com/adrianmihalko/ch340g-ch34g-ch34x-mac-os-x-driver)
+
+### [1.1 The TCLab Python Package](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.01-The-TCLab-Python-Package.ipynb)
+- [Connecting to the Temperature Control Laboratory](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.01-The-TCLab-Python-Package.ipynb#Connecting-to-the-Temperature-Control-Laboratory)
+    - [Installation](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.01-The-TCLab-Python-Package.ipynb#Installation)
+    - [Importing](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.01-The-TCLab-Python-Package.ipynb#Importing)
+    - [Using TCLab with Python's `with` statement](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.01-The-TCLab-Python-Package.ipynb#Using-TCLab-with-Python's-`with`-statement)
+- [Reading Temperatures](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.01-The-TCLab-Python-Package.ipynb#Reading-Temperatures)
+- [Setting Heaters](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.01-The-TCLab-Python-Package.ipynb#Setting-Heaters)
+- [Synchronizing with Real Time using `clock`](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.01-The-TCLab-Python-Package.ipynb#Synchronizing-with-Real-Time-using-`clock`)
+    - [Using `clock` with TCLab](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.01-The-TCLab-Python-Package.ipynb#Using-`clock`-with-TCLab)
+- [The TCLab `Historian`](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.01-The-TCLab-Python-Package.ipynb#The-TCLab-`Historian`)
+- [The TCLab `Plotter`](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.01-The-TCLab-Python-Package.ipynb#The-TCLab-`Plotter`)
+- [Using TCLab Offline](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.01-The-TCLab-Python-Package.ipynb#Using-TCLab-Offline)
+- [Running Diagnostics](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.01-The-TCLab-Python-Package.ipynb#Running-Diagnostics)
+* Markdown Links
+    - [TCLab](https://github.com/jckantor/TCLab)
+    - [TCLab-sketch](https://github.com/jckantor/TCLab-sketch)
+    - [Arduino IDE](https://www.arduino.cc/en/Main/Software)
+    - [Pandas Data Analysis Library](https://pandas.pydata.org/)
+
+
 ## [Appendix A. Additional Python](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/A.00-Additional-Python.ipynb)
 
 ### [A.1 Modular Simulation using Python Generators](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/A.01-Modular-Approach-to-Simulation-using-Python-Generators.ipynb)
@@ -59,34 +87,6 @@
     - [PI Controller Class](#section4-2)
     - [Modular Simulation of Cascade Control for Two Tanks in Series](#section4-3)
     - [generators and iterators](http://nvie.com/posts/iterators-vs-generators/)
-
-
-## [Appendix B. The Temperature Control Laboratory](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/B.00-TCLab.ipynb)
-- [Hardware](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/B.00-TCLab.ipynb#Hardware)
-* Markdown Links
-    - [Temperature Control Laboratory](http://apmonitor.com/pdc/index.php/Main/ArduinoTemperatureControl)
-    - [TCLab](https://github.com/jckantor/TCLab)
-    - [README](https://github.com/jckantor/TCLab/blob/master/README.rst)
-    - [here](https://github.com/adrianmihalko/ch340g-ch34g-ch34x-mac-os-x-driver)
-
-### [B.1 The TCLab Python Package](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/B.01-The-TCLab-Python-Package.ipynb)
-- [Connecting to the Temperature Control Laboratory](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/B.01-The-TCLab-Python-Package.ipynb#Connecting-to-the-Temperature-Control-Laboratory)
-    - [Installation](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/B.01-The-TCLab-Python-Package.ipynb#Installation)
-    - [Importing](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/B.01-The-TCLab-Python-Package.ipynb#Importing)
-    - [Using TCLab with Python's `with` statement](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/B.01-The-TCLab-Python-Package.ipynb#Using-TCLab-with-Python's-`with`-statement)
-- [Reading Temperatures](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/B.01-The-TCLab-Python-Package.ipynb#Reading-Temperatures)
-- [Setting Heaters](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/B.01-The-TCLab-Python-Package.ipynb#Setting-Heaters)
-- [Synchronizing with Real Time using `clock`](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/B.01-The-TCLab-Python-Package.ipynb#Synchronizing-with-Real-Time-using-`clock`)
-    - [Using `clock` with TCLab](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/B.01-The-TCLab-Python-Package.ipynb#Using-`clock`-with-TCLab)
-- [The TCLab `Historian`](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/B.01-The-TCLab-Python-Package.ipynb#The-TCLab-`Historian`)
-- [The TCLab `Plotter`](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/B.01-The-TCLab-Python-Package.ipynb#The-TCLab-`Plotter`)
-- [Using TCLab Offline](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/B.01-The-TCLab-Python-Package.ipynb#Using-TCLab-Offline)
-- [Running Diagnostics](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/B.01-The-TCLab-Python-Package.ipynb#Running-Diagnostics)
-* Markdown Links
-    - [TCLab](https://github.com/jckantor/TCLab)
-    - [TCLab-sketch](https://github.com/jckantor/TCLab-sketch)
-    - [Arduino IDE](https://www.arduino.cc/en/Main/Software)
-    - [Pandas Data Analysis Library](https://pandas.pydata.org/)
 
 ### [B.2 Relay Control](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/B.02-Relay-Control.ipynb)
 - [Simple Relay Control](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/B.02-Relay-Control.ipynb#Simple-Relay-Control)

@@ -16,13 +16,13 @@ teaching and learning the principles of Chemical Process Control.
 
 ### [Table of Contents](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/toc.ipynb?flush=true)
 
+### [Chapter 1.0 The Temperature Control Laboratory](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.00-TCLab.ipynb)
+- [1.1 The TCLab Python Package](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.01-The-TCLab-Python-Package.ipynb)
+
 ### [Appendix A. Additional Python](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/A.00-Additional-Python.ipynb)
 - [A.1 Modular Simulation using Python Generators](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/A.01-Modular-Approach-to-Simulation-using-Python-Generators.ipynb)
 - [A.2 Animation in Jupyter Notebooks](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/A.02-Animation-in-Jupyter-Notebooks.ipynb)
 - [A.3 A Modular Approach to Simulation using Python Generators](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/A.03-Modular-Simulation-using-Python-Generators.ipynb)
-
-### [Appendix B. The Temperature Control Laboratory](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/B.00-TCLab.ipynb)
-- [B.1 The TCLab Python Package](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/B.01-The-TCLab-Python-Package.ipynb)
 - [B.2 Relay Control](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/B.02-Relay-Control.ipynb)
 - [B.3 Step Testing](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/B.03-Step-Testing.ipynb)
 - [B.4 Fitting Step Test Data to Empirical Models](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/B.04-Fitting-Step-Test-Data-to-Empirical-Models.ipynb)
