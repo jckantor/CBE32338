@@ -20,6 +20,7 @@ teaching and learning the principles of Chemical Process Control.
 ### [Chapter 1.0 Introduction to the Temperature Control Laboratory](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.00-Introduction-to-the-Temperature-Control-Laboratory.ipynb)
 - [1.1 The Temperature Control Laboratory](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.01-TCLab.ipynb)
 - [1.2 The TCLab Python Package](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.02-The-TCLab-Python-Package.ipynb)
+- [1.11 TCLab Lab 1: Coding a relay controller](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.11-TCLab-Lab-1-Coding-a-relay-controller.ipynb)
 
 ### [Chapter 2.0 Model Identification](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.00-Model-Identification.ipynb)
 - [2.1 Step Testing](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.01-Step-Testing.ipynb)
@@ -28,6 +29,9 @@ teaching and learning the principles of Chemical Process Control.
 - [2.4 Two-Input, Two-Output Model](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.04-Two-Input-Two-Output-Model.ipynb)
 - [2.5 Two State Model for a Single Heater](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.05-Two-State-Model-for-a-Single-Heater.ipynb)
 - [2.6 Four State Model](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.06-Four-State-Model.ipynb)
+- [2.10 TCLab Lab 2: Model Identification](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.10-TCLab-Lab-2-Model-Indentification-Solutions.ipynb)
+- [2.10 TCLab Lab 2: Model Identification](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.10-TCLab-Lab-2-Model-Indentification.ipynb)
+- [2.11 Model Identification: Fitting models to data](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.11-TCLab-Lab-2-Fitting.ipynb)
 
 ### [Chapter 3.0 State Estimation](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/03.00-State-Estimation.ipynb)
 - [3.1 Open and Closed Loop Estimation](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/03.01-Open-and-Closed-Loop-Estimation.ipynb)

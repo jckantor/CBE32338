@@ -30,6 +30,19 @@
     - [Arduino IDE](https://www.arduino.cc/en/Main/Software)
     - [Pandas Data Analysis Library](https://pandas.pydata.org/)
 
+### [1.11 TCLab Lab 1: Coding a relay controller](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.11-TCLab-Lab-1-Coding-a-relay-controller.ipynb)
+- [Procedures](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.11-TCLab-Lab-1-Coding-a-relay-controller.ipynb#Procedures)
+- [Exercise 1. Download and install TCLab.py](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.11-TCLab-Lab-1-Coding-a-relay-controller.ipynb#Exercise-1.-Download-and-install-TCLab.py)
+- [Exercise 2. Verify that your hardware and software are working correctly.](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.11-TCLab-Lab-1-Coding-a-relay-controller.ipynb#Exercise-2.-Verify-that-your-hardware-and-software-are-working-correctly.)
+- [Exercise 3. Turn on the heaters for 120 seconds and log temperature response.](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.11-TCLab-Lab-1-Coding-a-relay-controller.ipynb#Exercise-3.-Turn-on-the-heaters-for-120-seconds-and-log-temperature-response.)
+- [Exercise 4. Code an on-off controller.](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.11-TCLab-Lab-1-Coding-a-relay-controller.ipynb#Exercise-4.-Code-an-on-off-controller.)
+- [Exercise 5. Analysis](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.11-TCLab-Lab-1-Coding-a-relay-controller.ipynb#Exercise-5.-Analysis)
+* Markdown Links
+    - [On-Off Control in Section 1.6 of *Feedback Control for Scientists and Engineers*](http://www.cds.caltech.edu/~murray/books/AM08/pdf/fbs-intro_07Aug2019.pdf#page=19)
+    - [The TCLab Python Package](https://nbviewer.jupyter.org/github/jckantor/CBE30338/blob/master/notebooks/B.01-The-TCLab-Python-Package.ipynb)
+    - [TCLab Relay Control](https://nbviewer.jupyter.org/github/jckantor/CBE30338/blob/master/notebooks/B.02-Relay-Control.ipynb)
+    - [TCLab Python Package](https://nbviewer.jupyter.org/github/jckantor/CBE30338/blob/master/notebooks/B.01-The-TCLab-Python-Package.ipynb/)
+
 
 ## [Chapter 2.0 Model Identification](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.00-Model-Identification.ipynb)
 
@@ -82,6 +95,37 @@
 - [Multivariable Heater/Sensor System](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.06-Four-State-Model.ipynb#Multivariable-Heater/Sensor-System)
 - [Deviation variables](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.06-Four-State-Model.ipynb#Deviation-variables)
 - [State space](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.06-Four-State-Model.ipynb#State-space)
+
+### [2.10 TCLab Lab 2: Model Identification](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.10-TCLab-Lab-2-Model-Indentification-Solutions.ipynb)
+- [Procedures](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.10-TCLab-Lab-2-Model-Indentification-Solutions.ipynb#Procedures)
+- [Exercise 1. Verify operation of the temperature control lab.](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.10-TCLab-Lab-2-Model-Indentification-Solutions.ipynb#Exercise-1.-Verify-operation-of-the-temperature-control-lab.)
+- [Exercise 2. Check for steady state](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.10-TCLab-Lab-2-Model-Indentification-Solutions.ipynb#Exercise-2.-Check-for-steady-state)
+- [Exercise 3. Step test.](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.10-TCLab-Lab-2-Model-Indentification-Solutions.ipynb#Exercise-3.-Step-test.)
+- [Exercise 4. Verify and save data to a .csv file](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.10-TCLab-Lab-2-Model-Indentification-Solutions.ipynb#Exercise-4.-Verify-and-save-data-to-a-.csv-file)
+- [Exercise 5. Analysis](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.10-TCLab-Lab-2-Model-Indentification-Solutions.ipynb#Exercise-5.-Analysis)
+
+### [2.10 TCLab Lab 2: Model Identification](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.10-TCLab-Lab-2-Model-Indentification.ipynb)
+- [Procedures](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.10-TCLab-Lab-2-Model-Indentification.ipynb#Procedures)
+- [Exercise 1. Verify operation of the temperature control lab.](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.10-TCLab-Lab-2-Model-Indentification.ipynb#Exercise-1.-Verify-operation-of-the-temperature-control-lab.)
+- [Exercise 2. Check for steady state](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.10-TCLab-Lab-2-Model-Indentification.ipynb#Exercise-2.-Check-for-steady-state)
+- [Exercise 3. Step test.](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.10-TCLab-Lab-2-Model-Indentification.ipynb#Exercise-3.-Step-test.)
+- [Exercise 4. Verify and save data to a .csv file](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.10-TCLab-Lab-2-Model-Indentification.ipynb#Exercise-4.-Verify-and-save-data-to-a-.csv-file)
+- [Exercise 5. Analysis](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.10-TCLab-Lab-2-Model-Indentification.ipynb#Exercise-5.-Analysis)
+
+### [2.11 Model Identification: Fitting models to data](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.11-TCLab-Lab-2-Fitting.ipynb)
+- [Initializations](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.11-TCLab-Lab-2-Fitting.ipynb#Initializations)
+    - [Reading data](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.11-TCLab-Lab-2-Fitting.ipynb#Reading-data)
+    - [Plotting function](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.11-TCLab-Lab-2-Fitting.ipynb#Plotting-function)
+- [Empirical Models](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.11-TCLab-Lab-2-Fitting.ipynb#Empirical-Models)
+    - [First-order linear model](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.11-TCLab-Lab-2-Fitting.ipynb#First-order-linear-model)
+    - [First-order linear model with time delay](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.11-TCLab-Lab-2-Fitting.ipynb#First-order-linear-model-with-time-delay)
+- [First-principles modeling](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.11-TCLab-Lab-2-Fitting.ipynb#First-principles-modeling)
+    - [First-order energy balance for one heater](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.11-TCLab-Lab-2-Fitting.ipynb#First-order-energy-balance-for-one-heater)
+    - [Two State Model](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.11-TCLab-Lab-2-Fitting.ipynb#Two-State-Model)
+- [Two heater, four state model](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.11-TCLab-Lab-2-Fitting.ipynb#Two-heater,-four-state-model)
+- [Consequences](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.11-TCLab-Lab-2-Fitting.ipynb#Consequences)
+- [State-Space Model](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.11-TCLab-Lab-2-Fitting.ipynb#State-Space-Model)
+- [Putting to work](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.11-TCLab-Lab-2-Fitting.ipynb#Putting-to-work)
 
 
 ## [Chapter 3.0 State Estimation](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/03.00-State-Estimation.ipynb)
