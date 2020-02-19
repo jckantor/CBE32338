@@ -17,12 +17,10 @@ teaching and learning the principles of Chemical Process Control.
 
 ### [Table of Contents](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/toc.ipynb?flush=true)
 
-### [Chapter 1.0 The Temperature Control Laboratory](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.00-TCLab.ipynb)
-- [1.1 The TCLab Python Package](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.01-The-TCLab-Python-Package.ipynb)
-- [1.2 Relay Control](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.02-Relay-Control.ipynb)
-- [1.3 Step Testing](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.03-Step-Testing.ipynb)
-- [1.4 Fitting Step Test Data to Empirical Models](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.04-Fitting-Step-Test-Data-to-Empirical-Models.ipynb)
-- [1.5 First Order Model for a Single Heater](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.05-First-Order-Model-for-a-Single-Heater.ipynb)
+### [Chapter 1.0 Introduction to the Temperature Control Laboratory](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.00-Introduction-to-the-Temperature-Control-Laboratory.ipynb)
+- [1.1 The Temperature Control Laboratory](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.01-TCLab.ipynb)
+- [1.2 The TCLab Python Package](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.02-The-TCLab-Python-Package.ipynb)
+- [1.3 Relay Control](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.03-Relay-Control.ipynb)
 - [1.6 Two-Input, Two-Output Model](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.06-Two-Input-Two-Output-Model.ipynb)
 - [1.7 Two State Model for a Single Heater](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.07-Two-State-Model-for-a-Single-Heater.ipynb)
 - [1.8 Four State Model](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.08-Four-State-Model.ipynb)
@@ -32,6 +30,11 @@ teaching and learning the principles of Chemical Process Control.
 - [1.12 Open and Closed Loop Estimation](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.12-Open-and-Closed-Loop-Estimation.ipynb)
 - [1.13 Simulation, Control, and Estimation using Pyomo](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.13-Optimization-Control-and-Estimation-using-Pyomo.ipynb)
 - [1.14 Simulation, Control, and Estimation using Pyomo](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.14-Optimization-Control-and-Estimation-using-Pyomo-With-Windows-ipopt.ipynb)
+
+### [Chapter 2.0 Model Identification](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.00-Model-Identification.ipynb)
+- [2.1 Step Testing](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.01-Step-Testing.ipynb)
+- [2.2 Fitting Step Test Data to Empirical Models](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.02-Fitting-Step-Test-Data-to-Empirical-Models.ipynb)
+- [2.3 First Order Model for a Single Heater](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.03-First-Order-Model-for-a-Single-Heater.ipynb)
 
 ### [Appendix A. Additional Python](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/A.00-Additional-Python.ipynb)
 - [A.1 Modular Simulation using Python Generators](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/A.01-Modular-Approach-to-Simulation-using-Python-Generators.ipynb)
