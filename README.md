@@ -16,12 +16,6 @@ teaching and learning the principles of Chemical Process Control.
 
 ### [Table of Contents](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/toc.ipynb?flush=true)
 
-### [Chapter 1.0 Getting Started](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.00-Getting-Started.ipynb)
-- [1.1 Getting Started with Python and Jupyter Notebooks](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.01-Getting-Started-with-Python-and-Jupyter-Notebooks.ipynb)
-- [1.2 Python Basics](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.02-Python-Basics.ipynb)
-- [1.3 Python Conditionals and Libraries](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.03-Python-Conditionals-and-Libraries.ipynb)
-- [1.4 Python Numeric Integration Revisited](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.04-Python-Numeric-Integration-Revisited.ipynb)
-
 ### [Chapter 2.0 Process Modeling](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.00-Process-Modeling.ipynb)
 - [2.1 Process Variables](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.01-Process-Variables.ipynb)
 - [2.2 Gravity Drained Tank](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.02-Gravity-Drained-Tank.ipynb)
