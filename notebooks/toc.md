@@ -30,92 +30,6 @@
     - [Arduino IDE](https://www.arduino.cc/en/Main/Software)
     - [Pandas Data Analysis Library](https://pandas.pydata.org/)
 
-### [1.3 Relay Control](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.03-Relay-Control.ipynb)
-- [Simple Relay Control](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.03-Relay-Control.ipynb#Simple-Relay-Control)
-- [Relay Control with Hysteresis](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.03-Relay-Control.ipynb#Relay-Control-with-Hysteresis)
-- [Multivariable On-Off Control](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.03-Relay-Control.ipynb#Multivariable-On-Off-Control)
-- [Exercises](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.03-Relay-Control.ipynb#Exercises)
-
-### [1.6 Two-Input, Two-Output Model](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.06-Two-Input-Two-Output-Model.ipynb)
-- [Interacting Heaters](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.06-Two-Input-Two-Output-Model.ipynb#Interacting-Heaters)
-- [Deviation Variables](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.06-Two-Input-Two-Output-Model.ipynb#Deviation-Variables)
-- [Steady State](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.06-Two-Input-Two-Output-Model.ipynb#Steady-State)
-- [Estimating $U_a$ and $U_b$](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.06-Two-Input-Two-Output-Model.ipynb#Estimating-$U_a$-and-$U_b$)
-- [Simulation with odeint](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.06-Two-Input-Two-Output-Model.ipynb#Simulation-with-odeint)
-- [Fitting the Model to Measured Step Response Data](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.06-Two-Input-Two-Output-Model.ipynb#Fitting-the-Model-to-Measured-Step-Response-Data)
-
-### [1.7 Two State Model for a Single Heater](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.07-Two-State-Model-for-a-Single-Heater.ipynb)
-- [Dynamics of the Heater/Sensor System](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.07-Two-State-Model-for-a-Single-Heater.ipynb#Dynamics-of-the-Heater/Sensor-System)
-- [Model in deviation variables](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.07-Two-State-Model-for-a-Single-Heater.ipynb#Model-in-deviation-variables)
-- [Consequences of this Model](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.07-Two-State-Model-for-a-Single-Heater.ipynb#Consequences-of-this-Model)
-
-### [1.8 Four State Model](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.08-Four-State-Model.ipynb)
-- [Multivariable Heater/Sensor System](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.08-Four-State-Model.ipynb#Multivariable-Heater/Sensor-System)
-- [Deviation variables](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.08-Four-State-Model.ipynb#Deviation-variables)
-- [State space](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.08-Four-State-Model.ipynb#State-space)
-
-### [1.9 PID Control](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.09-PID_Control.ipynb)
-- [PID Simulation](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.09-PID_Control.ipynb#PID-Simulation)
-- [PID Implementation](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.09-PID_Control.ipynb#PID-Implementation)
-* Markdown Links
-    - [Web version available]( http://www.cds.caltech.edu/~murray/amwiki/index.php/Second_Edition)
-
-### [1.10 Lab Assignment: PID Control](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.10-Lab-Assignment-PID-Control.ipynb)
-- [Part 1. Manual Control](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.10-Lab-Assignment-PID-Control.ipynb#Part-1.-Manual-Control)
-- [Part 2. Implementing a PID Controller](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.10-Lab-Assignment-PID-Control.ipynb#Part-2.-Implementing-a-PID-Controller)
-- [Part 3. Tuning the PID Controller](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.10-Lab-Assignment-PID-Control.ipynb#Part-3.-Tuning-the-PID-Controller)
-
-### [1.11 Coding Controllers with Python Generators](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.11-Coding-Controllers-with-Python-Generators.ipynb)
-- [Example: Relay Control with Hysteresis](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.11-Coding-Controllers-with-Python-Generators.ipynb#Example:-Relay-Control-with-Hysteresis)
-    - [Simulation](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.11-Coding-Controllers-with-Python-Generators.ipynb#Simulation)
-    - [Experiment](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.11-Coding-Controllers-with-Python-Generators.ipynb#Experiment)
-- [Example: Proportional-Integral Control](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.11-Coding-Controllers-with-Python-Generators.ipynb#Example:-Proportional-Integral-Control)
-    - [Simulation](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.11-Coding-Controllers-with-Python-Generators.ipynb#Simulation)
-    - [Experiment](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.11-Coding-Controllers-with-Python-Generators.ipynb#Experiment)
-* Markdown Links
-    - [here](https://jeffknupp.com/blog/2013/04/07/improve-your-python-yield-and-generators-explained/)
-
-### [1.12 Open and Closed Loop Estimation](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.12-Open-and-Closed-Loop-Estimation.ipynb)
-- [Experiment 1. Open-Loop State Estimation and Relay Control](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.12-Open-and-Closed-Loop-Estimation.ipynb#Experiment-1.-Open-Loop-State-Estimation-and-Relay-Control)
-    - [Open Loop Estimation](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.12-Open-and-Closed-Loop-Estimation.ipynb#Open-Loop-Estimation)
-    - [Event Loop](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.12-Open-and-Closed-Loop-Estimation.ipynb#Event-Loop)
-- [Experiment 2. Closed-Loop State Estimation and Relay Control](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.12-Open-and-Closed-Loop-Estimation.ipynb#Experiment-2.-Closed-Loop-State-Estimation-and-Relay-Control)
-    - [Review of Closed Loop Estimation](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.12-Open-and-Closed-Loop-Estimation.ipynb#Review-of-Closed-Loop-Estimation)
-    - [Choosing $L$](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.12-Open-and-Closed-Loop-Estimation.ipynb#Choosing-$L$)
-- [Experiment 3. Closed-Loop State Estimation and Relay Control](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.12-Open-and-Closed-Loop-Estimation.ipynb#Experiment-3.-Closed-Loop-State-Estimation-and-Relay-Control)
-
-### [1.13 Simulation, Control, and Estimation using Pyomo](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.13-Optimization-Control-and-Estimation-using-Pyomo.ipynb)
-- [Installations](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.13-Optimization-Control-and-Estimation-using-Pyomo.ipynb#Installations)
-    - [Google Colab](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.13-Optimization-Control-and-Estimation-using-Pyomo.ipynb#Google-Colab)
-    - [MacOS](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.13-Optimization-Control-and-Estimation-using-Pyomo.ipynb#MacOS)
-    - [Windows PC](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.13-Optimization-Control-and-Estimation-using-Pyomo.ipynb#Windows-PC)
-- [Process Information](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.13-Optimization-Control-and-Estimation-using-Pyomo.ipynb#Process-Information)
-    - [Process Parameter Values](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.13-Optimization-Control-and-Estimation-using-Pyomo.ipynb#Process-Parameter-Values)
-    - [Process Inputs](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.13-Optimization-Control-and-Estimation-using-Pyomo.ipynb#Process-Inputs)
-- [Pyomo Simulation](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.13-Optimization-Control-and-Estimation-using-Pyomo.ipynb#Pyomo-Simulation)
-- [Optimal Control with Knowledge of Disturbances](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.13-Optimization-Control-and-Estimation-using-Pyomo.ipynb#Optimal-Control-with-Knowledge-of-Disturbances)
-    - [Exercise](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.13-Optimization-Control-and-Estimation-using-Pyomo.ipynb#Exercise)
-- [Estimation/Observation](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.13-Optimization-Control-and-Estimation-using-Pyomo.ipynb#Estimation/Observation)
-- [Coding the Observer as a Python Generator](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.13-Optimization-Control-and-Estimation-using-Pyomo.ipynb#Coding-the-Observer-as-a-Python-Generator)
-- [Coding the Controller as a Python Generator](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.13-Optimization-Control-and-Estimation-using-Pyomo.ipynb#Coding-the-Controller-as-a-Python-Generator)
-- [MPC Demonstration](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.13-Optimization-Control-and-Estimation-using-Pyomo.ipynb#MPC-Demonstration)
-- [To be Removed](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.13-Optimization-Control-and-Estimation-using-Pyomo.ipynb#To-be-Removed)
-
-### [1.14 Simulation, Control, and Estimation using Pyomo](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.14-Optimization-Control-and-Estimation-using-Pyomo-With-Windows-ipopt.ipynb)
-- [Installations](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.14-Optimization-Control-and-Estimation-using-Pyomo-With-Windows-ipopt.ipynb#Installations)
-    - [Google Colab](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.14-Optimization-Control-and-Estimation-using-Pyomo-With-Windows-ipopt.ipynb#Google-Colab)
-    - [MacOS](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.14-Optimization-Control-and-Estimation-using-Pyomo-With-Windows-ipopt.ipynb#MacOS)
-    - [Windows PC](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.14-Optimization-Control-and-Estimation-using-Pyomo-With-Windows-ipopt.ipynb#Windows-PC)
-- [Process Information](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.14-Optimization-Control-and-Estimation-using-Pyomo-With-Windows-ipopt.ipynb#Process-Information)
-    - [Process Parameter Values](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.14-Optimization-Control-and-Estimation-using-Pyomo-With-Windows-ipopt.ipynb#Process-Parameter-Values)
-    - [Process Inputs](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.14-Optimization-Control-and-Estimation-using-Pyomo-With-Windows-ipopt.ipynb#Process-Inputs)
-- [Pyomo Simulation](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.14-Optimization-Control-and-Estimation-using-Pyomo-With-Windows-ipopt.ipynb#Pyomo-Simulation)
-- [Optimal Control with Knowledge of Disturbances](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.14-Optimization-Control-and-Estimation-using-Pyomo-With-Windows-ipopt.ipynb#Optimal-Control-with-Knowledge-of-Disturbances)
-    - [Exercise](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.14-Optimization-Control-and-Estimation-using-Pyomo-With-Windows-ipopt.ipynb#Exercise)
-- [Estimation/Observation](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.14-Optimization-Control-and-Estimation-using-Pyomo-With-Windows-ipopt.ipynb#Estimation/Observation)
-- [Coding the Observer as a Python Generator](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.14-Optimization-Control-and-Estimation-using-Pyomo-With-Windows-ipopt.ipynb#Coding-the-Observer-as-a-Python-Generator)
-- [Coding the Controller as a Python Generator](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/01.14-Optimization-Control-and-Estimation-using-Pyomo-With-Windows-ipopt.ipynb#Coding-the-Controller-as-a-Python-Generator)
-
 
 ## [Chapter 2.0 Model Identification](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.00-Model-Identification.ipynb)
 
@@ -151,10 +65,105 @@
 * Markdown Links
     - [specific heat capacity for solids](https://en.wikipedia.org/wiki/Heat_capacity)
 
+### [2.4 Two-Input, Two-Output Model](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.04-Two-Input-Two-Output-Model.ipynb)
+- [Interacting Heaters](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.04-Two-Input-Two-Output-Model.ipynb#Interacting-Heaters)
+- [Deviation Variables](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.04-Two-Input-Two-Output-Model.ipynb#Deviation-Variables)
+- [Steady State](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.04-Two-Input-Two-Output-Model.ipynb#Steady-State)
+- [Estimating $U_a$ and $U_b$](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.04-Two-Input-Two-Output-Model.ipynb#Estimating-$U_a$-and-$U_b$)
+- [Simulation with odeint](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.04-Two-Input-Two-Output-Model.ipynb#Simulation-with-odeint)
+- [Fitting the Model to Measured Step Response Data](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.04-Two-Input-Two-Output-Model.ipynb#Fitting-the-Model-to-Measured-Step-Response-Data)
+
+### [2.5 Two State Model for a Single Heater](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.05-Two-State-Model-for-a-Single-Heater.ipynb)
+- [Dynamics of the Heater/Sensor System](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.05-Two-State-Model-for-a-Single-Heater.ipynb#Dynamics-of-the-Heater/Sensor-System)
+- [Model in deviation variables](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.05-Two-State-Model-for-a-Single-Heater.ipynb#Model-in-deviation-variables)
+- [Consequences of this Model](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.05-Two-State-Model-for-a-Single-Heater.ipynb#Consequences-of-this-Model)
+
+### [2.6 Four State Model](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.06-Four-State-Model.ipynb)
+- [Multivariable Heater/Sensor System](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.06-Four-State-Model.ipynb#Multivariable-Heater/Sensor-System)
+- [Deviation variables](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.06-Four-State-Model.ipynb#Deviation-variables)
+- [State space](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/02.06-Four-State-Model.ipynb#State-space)
+
+
+## [Chapter 3.0 State Estimation](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/03.00-State-Estimation.ipynb)
+
+### [3.1 Open and Closed Loop Estimation](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/03.01-Open-and-Closed-Loop-Estimation.ipynb)
+- [Experiment 1. Open-Loop State Estimation and Relay Control](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/03.01-Open-and-Closed-Loop-Estimation.ipynb#Experiment-1.-Open-Loop-State-Estimation-and-Relay-Control)
+    - [Open Loop Estimation](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/03.01-Open-and-Closed-Loop-Estimation.ipynb#Open-Loop-Estimation)
+    - [Event Loop](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/03.01-Open-and-Closed-Loop-Estimation.ipynb#Event-Loop)
+- [Experiment 2. Closed-Loop State Estimation and Relay Control](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/03.01-Open-and-Closed-Loop-Estimation.ipynb#Experiment-2.-Closed-Loop-State-Estimation-and-Relay-Control)
+    - [Review of Closed Loop Estimation](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/03.01-Open-and-Closed-Loop-Estimation.ipynb#Review-of-Closed-Loop-Estimation)
+    - [Choosing $L$](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/03.01-Open-and-Closed-Loop-Estimation.ipynb#Choosing-$L$)
+- [Experiment 3. Closed-Loop State Estimation and Relay Control](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/03.01-Open-and-Closed-Loop-Estimation.ipynb#Experiment-3.-Closed-Loop-State-Estimation-and-Relay-Control)
+
+
+## [Chapter 4.0 Feedback Control](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/04.00-Feedback-Control.ipynb)
+
+### [4.1 Relay Control](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/04.01-Relay-Control.ipynb)
+- [Simple Relay Control](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/04.01-Relay-Control.ipynb#Simple-Relay-Control)
+- [Relay Control with Hysteresis](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/04.01-Relay-Control.ipynb#Relay-Control-with-Hysteresis)
+- [Multivariable On-Off Control](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/04.01-Relay-Control.ipynb#Multivariable-On-Off-Control)
+- [Exercises](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/04.01-Relay-Control.ipynb#Exercises)
+
+### [4.3 PID Control](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/04.03-PID_Control.ipynb)
+- [PID Simulation](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/04.03-PID_Control.ipynb#PID-Simulation)
+- [PID Implementation](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/04.03-PID_Control.ipynb#PID-Implementation)
+* Markdown Links
+    - [Web version available]( http://www.cds.caltech.edu/~murray/amwiki/index.php/Second_Edition)
+
+### [4.10 Lab Assignment: PID Control](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/04.10-Lab-Assignment-PID-Control.ipynb)
+- [Part 1. Manual Control](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/04.10-Lab-Assignment-PID-Control.ipynb#Part-1.-Manual-Control)
+- [Part 2. Implementing a PID Controller](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/04.10-Lab-Assignment-PID-Control.ipynb#Part-2.-Implementing-a-PID-Controller)
+- [Part 3. Tuning the PID Controller](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/04.10-Lab-Assignment-PID-Control.ipynb#Part-3.-Tuning-the-PID-Controller)
+
+
+## [Chapter 5.0 Predictive Control and Real Time Optimization](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/05.00-Predictive-Control-and-Real-Time-Optimization.ipynb)
+
+### [5.1 Simulation, Control, and Estimation using Pyomo](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/05.01-Optimization-Control-and-Estimation-using-Pyomo.ipynb)
+- [Installations](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/05.01-Optimization-Control-and-Estimation-using-Pyomo.ipynb#Installations)
+    - [Google Colab](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/05.01-Optimization-Control-and-Estimation-using-Pyomo.ipynb#Google-Colab)
+    - [MacOS](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/05.01-Optimization-Control-and-Estimation-using-Pyomo.ipynb#MacOS)
+    - [Windows PC](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/05.01-Optimization-Control-and-Estimation-using-Pyomo.ipynb#Windows-PC)
+- [Process Information](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/05.01-Optimization-Control-and-Estimation-using-Pyomo.ipynb#Process-Information)
+    - [Process Parameter Values](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/05.01-Optimization-Control-and-Estimation-using-Pyomo.ipynb#Process-Parameter-Values)
+    - [Process Inputs](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/05.01-Optimization-Control-and-Estimation-using-Pyomo.ipynb#Process-Inputs)
+- [Pyomo Simulation](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/05.01-Optimization-Control-and-Estimation-using-Pyomo.ipynb#Pyomo-Simulation)
+- [Optimal Control with Knowledge of Disturbances](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/05.01-Optimization-Control-and-Estimation-using-Pyomo.ipynb#Optimal-Control-with-Knowledge-of-Disturbances)
+    - [Exercise](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/05.01-Optimization-Control-and-Estimation-using-Pyomo.ipynb#Exercise)
+- [Estimation/Observation](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/05.01-Optimization-Control-and-Estimation-using-Pyomo.ipynb#Estimation/Observation)
+- [Coding the Observer as a Python Generator](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/05.01-Optimization-Control-and-Estimation-using-Pyomo.ipynb#Coding-the-Observer-as-a-Python-Generator)
+- [Coding the Controller as a Python Generator](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/05.01-Optimization-Control-and-Estimation-using-Pyomo.ipynb#Coding-the-Controller-as-a-Python-Generator)
+- [MPC Demonstration](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/05.01-Optimization-Control-and-Estimation-using-Pyomo.ipynb#MPC-Demonstration)
+- [To be Removed](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/05.01-Optimization-Control-and-Estimation-using-Pyomo.ipynb#To-be-Removed)
+
+### [5.2 Simulation, Control, and Estimation using Pyomo](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/05.02-Optimization-Control-and-Estimation-using-Pyomo-With-Windows-ipopt.ipynb)
+- [Installations](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/05.02-Optimization-Control-and-Estimation-using-Pyomo-With-Windows-ipopt.ipynb#Installations)
+    - [Google Colab](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/05.02-Optimization-Control-and-Estimation-using-Pyomo-With-Windows-ipopt.ipynb#Google-Colab)
+    - [MacOS](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/05.02-Optimization-Control-and-Estimation-using-Pyomo-With-Windows-ipopt.ipynb#MacOS)
+    - [Windows PC](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/05.02-Optimization-Control-and-Estimation-using-Pyomo-With-Windows-ipopt.ipynb#Windows-PC)
+- [Process Information](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/05.02-Optimization-Control-and-Estimation-using-Pyomo-With-Windows-ipopt.ipynb#Process-Information)
+    - [Process Parameter Values](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/05.02-Optimization-Control-and-Estimation-using-Pyomo-With-Windows-ipopt.ipynb#Process-Parameter-Values)
+    - [Process Inputs](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/05.02-Optimization-Control-and-Estimation-using-Pyomo-With-Windows-ipopt.ipynb#Process-Inputs)
+- [Pyomo Simulation](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/05.02-Optimization-Control-and-Estimation-using-Pyomo-With-Windows-ipopt.ipynb#Pyomo-Simulation)
+- [Optimal Control with Knowledge of Disturbances](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/05.02-Optimization-Control-and-Estimation-using-Pyomo-With-Windows-ipopt.ipynb#Optimal-Control-with-Knowledge-of-Disturbances)
+    - [Exercise](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/05.02-Optimization-Control-and-Estimation-using-Pyomo-With-Windows-ipopt.ipynb#Exercise)
+- [Estimation/Observation](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/05.02-Optimization-Control-and-Estimation-using-Pyomo-With-Windows-ipopt.ipynb#Estimation/Observation)
+- [Coding the Observer as a Python Generator](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/05.02-Optimization-Control-and-Estimation-using-Pyomo-With-Windows-ipopt.ipynb#Coding-the-Observer-as-a-Python-Generator)
+- [Coding the Controller as a Python Generator](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/05.02-Optimization-Control-and-Estimation-using-Pyomo-With-Windows-ipopt.ipynb#Coding-the-Controller-as-a-Python-Generator)
+
 
 ## [Appendix A. Additional Python](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/A.00-Additional-Python.ipynb)
 
-### [A.1 Modular Simulation using Python Generators](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/A.01-Modular-Approach-to-Simulation-using-Python-Generators.ipynb)
+### [A.1 Coding Controllers with Python Generators](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/A.01-Coding-Controllers-with-Python-Generators.ipynb)
+- [Example: Relay Control with Hysteresis](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/A.01-Coding-Controllers-with-Python-Generators.ipynb#Example:-Relay-Control-with-Hysteresis)
+    - [Simulation](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/A.01-Coding-Controllers-with-Python-Generators.ipynb#Simulation)
+    - [Experiment](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/A.01-Coding-Controllers-with-Python-Generators.ipynb#Experiment)
+- [Example: Proportional-Integral Control](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/A.01-Coding-Controllers-with-Python-Generators.ipynb#Example:-Proportional-Integral-Control)
+    - [Simulation](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/A.01-Coding-Controllers-with-Python-Generators.ipynb#Simulation)
+    - [Experiment](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/A.01-Coding-Controllers-with-Python-Generators.ipynb#Experiment)
+* Markdown Links
+    - [here](https://jeffknupp.com/blog/2013/04/07/improve-your-python-yield-and-generators-explained/)
+
+### [A.2 Modular Simulation using Python Generators](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/A.02-Modular-Approach-to-Simulation-using-Python-Generators.ipynb)
 * Markdown Links
     - [Simulation using scipy.integrate.odeint()](#section1)
     - [Typical Usage](#section1-1)
@@ -175,18 +184,6 @@
     - [PI Controller Class](#section4-2)
     - [Modular Simulation of Cascade Control for Two Tanks in Series](#section4-3)
     - [generators and iterators](http://nvie.com/posts/iterators-vs-generators/)
-
-### [A.2 Animation in Jupyter Notebooks](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/A.02-Animation-in-Jupyter-Notebooks.ipynb)
-- [Step-by-Step Approach to Animation with Matplotlib](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/A.02-Animation-in-Jupyter-Notebooks.ipynb#Step-by-Step-Approach-to-Animation-with-Matplotlib)
-    - [Step 2. Define a function to draw each frame](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/A.02-Animation-in-Jupyter-Notebooks.ipynb#Step-2.-Define-a-function-to-draw-each-frame)
-    - [Step 3. Create the Animation Object](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/A.02-Animation-in-Jupyter-Notebooks.ipynb#Step-3.-Create-the-Animation-Object)
-    - [Step 4. Render the Animation](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/A.02-Animation-in-Jupyter-Notebooks.ipynb#Step-4.-Render-the-Animation)
-- [Example: Phase Plane Animation for an Exothermic Stirred-Tank Reactor](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/A.02-Animation-in-Jupyter-Notebooks.ipynb#Example:-Phase-Plane-Animation-for-an-Exothermic-Stirred-Tank-Reactor)
-* Markdown Links
-    - [https://github.com/jckantor/CBE30338](https://github.com/jckantor/CBE30338)
-    - [Animating the Lorenz System in 3D](https://jakevdp.github.io/blog/2013/02/16/animating-the-lorentz-system-in-3d/)
-    - [Embedding Matplotlib Animations in Jupyter Notebooks](http://louistiao.me/posts/notebooks/embedding-matplotlib-animations-in-jupyter-notebooks/)
-    - [here](https://github.com/adaptlearning/adapt_authoring/wiki/Installing-FFmpeg)
 
 ### [A.3 A Modular Approach to Simulation using Python Generators](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/A.03-Modular-Simulation-using-Python-Generators.ipynb)
 * Markdown Links
@@ -210,3 +207,15 @@
     - [PI Controller Class](#section4-2)
     - [Modular Simulation of Cascade Control for Two Tanks in Series](#section4-3)
     - [generators and iterators](http://nvie.com/posts/iterators-vs-generators/)
+
+### [A.4 Animation in Jupyter Notebooks](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/A.04-Animation-in-Jupyter-Notebooks.ipynb)
+- [Step-by-Step Approach to Animation with Matplotlib](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/A.04-Animation-in-Jupyter-Notebooks.ipynb#Step-by-Step-Approach-to-Animation-with-Matplotlib)
+    - [Step 2. Define a function to draw each frame](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/A.04-Animation-in-Jupyter-Notebooks.ipynb#Step-2.-Define-a-function-to-draw-each-frame)
+    - [Step 3. Create the Animation Object](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/A.04-Animation-in-Jupyter-Notebooks.ipynb#Step-3.-Create-the-Animation-Object)
+    - [Step 4. Render the Animation](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/A.04-Animation-in-Jupyter-Notebooks.ipynb#Step-4.-Render-the-Animation)
+- [Example: Phase Plane Animation for an Exothermic Stirred-Tank Reactor](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/A.04-Animation-in-Jupyter-Notebooks.ipynb#Example:-Phase-Plane-Animation-for-an-Exothermic-Stirred-Tank-Reactor)
+* Markdown Links
+    - [https://github.com/jckantor/CBE30338](https://github.com/jckantor/CBE30338)
+    - [Animating the Lorenz System in 3D](https://jakevdp.github.io/blog/2013/02/16/animating-the-lorentz-system-in-3d/)
+    - [Embedding Matplotlib Animations in Jupyter Notebooks](http://louistiao.me/posts/notebooks/embedding-matplotlib-animations-in-jupyter-notebooks/)
+    - [here](https://github.com/adaptlearning/adapt_authoring/wiki/Installing-FFmpeg)
