@@ -137,7 +137,11 @@
 - [Experiment 2. Closed-Loop State Estimation and Relay Control](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/03.01-Open-and-Closed-Loop-Estimation.ipynb#Experiment-2.-Closed-Loop-State-Estimation-and-Relay-Control)
     - [Review of Closed Loop Estimation](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/03.01-Open-and-Closed-Loop-Estimation.ipynb#Review-of-Closed-Loop-Estimation)
     - [Choosing $L$](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/03.01-Open-and-Closed-Loop-Estimation.ipynb#Choosing-$L$)
-- [Experiment 3. Closed-Loop State Estimation and Relay Control](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/03.01-Open-and-Closed-Loop-Estimation.ipynb#Experiment-3.-Closed-Loop-State-Estimation-and-Relay-Control)
+- [Question](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/03.01-Open-and-Closed-Loop-Estimation.ipynb#Question)
+* Markdown Links
+    - [State Estimation](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/03.00-State-Estimation.ipynb)
+    - [Contents](toc.ipynb)
+    - [Feedback Control](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/04.00-Feedback-Control.ipynb)
 
 
 ## [Chapter 4.0 Feedback Control](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/04.00-Feedback-Control.ipynb)
