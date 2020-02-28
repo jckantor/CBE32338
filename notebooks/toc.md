@@ -163,6 +163,12 @@
 - [Part 2. Implementing a PID Controller](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/04.10-Lab-Assignment-PID-Control.ipynb#Part-2.-Implementing-a-PID-Controller)
 - [Part 3. Tuning the PID Controller](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/04.10-Lab-Assignment-PID-Control.ipynb#Part-3.-Tuning-the-PID-Controller)
 
+### [4.11 Lab Assignment 4: PI Control](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/04.11-Lab-Assignment-PI-Control.ipynb)
+- [Implementation of a simple PI controller](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/04.11-Lab-Assignment-PI-Control.ipynb#Implementation-of-a-simple-PI-controller)
+- [Exercise 1. Tune the PI control for the Temperature Control Lab](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/04.11-Lab-Assignment-PI-Control.ipynb#Exercise-1.-Tune-the-PI-control-for-the-Temperature-Control-Lab)
+- [Exercise 2. Hardware testing the PI controller](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/04.11-Lab-Assignment-PI-Control.ipynb#Exercise-2.-Hardware-testing-the-PI-controller)
+- [Exercise 3. Multivariable PI control](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/04.11-Lab-Assignment-PI-Control.ipynb#Exercise-3.-Multivariable-PI-control)
+
 
 ## [Chapter 5.0 Predictive Control and Real Time Optimization](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/05.00-Predictive-Control-and-Real-Time-Optimization.ipynb)
 

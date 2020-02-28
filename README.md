@@ -40,6 +40,7 @@ teaching and learning the principles of Chemical Process Control.
 - [4.1 Relay Control](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/04.01-Relay-Control.ipynb)
 - [4.3 PID Control](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/04.03-PID_Control.ipynb)
 - [4.10 Lab Assignment: PID Control](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/04.10-Lab-Assignment-PID-Control.ipynb)
+- [4.11 Lab Assignment 4: PI Control](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/04.11-Lab-Assignment-PI-Control.ipynb)
 
 ### [Chapter 5.0 Predictive Control and Real Time Optimization](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/05.00-Predictive-Control-and-Real-Time-Optimization.ipynb)
 - [5.1 Simulation, Control, and Estimation using Pyomo](http://nbviewer.jupyter.org/github/jckantor/CBE32338/blob/master/notebooks/05.01-Optimization-Control-and-Estimation-using-Pyomo.ipynb)
