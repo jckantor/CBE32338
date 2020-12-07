@@ -13095,10 +13095,42 @@ content is available <a href="https://github.com/jckantor/CBE32338.git">on Githu
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <p><!--NAVIGATION-->
-&lt; <a href="https://jckantor.github.io/CBE32338/02.10-TCLab-Lab-2-Model-Indentification.html">2.10 TCLab Lab 2: Model Identification</a> | <a href="toc.html">Contents</a> | <a href="https://jckantor.github.io/CBE32338/03.00-State-Estimation.html">3.0 State Estimation</a><p><a href="https://colab.research.google.com/github/jckantor/CBE32338/blob/master/docs/02.11-TCLab-Lab-2-Fitting.ipynb"> <img align="left" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" title="Open in Google Colaboratory"></a><p><a href="https://jckantor.github.io/CBE32338/02.11-TCLab-Lab-2-Fitting.ipynb"> <img align="left" src="https://img.shields.io/badge/Github-Download-blue.svg" alt="Download" title="Download Notebook"></a></p>
+&lt; <a href="https://jckantor.github.io/CBE32338/02.10-TCLab-Lab-2-Model-Indentification.html">2.10 TCLab Lab 2: Model Identification</a> | <a href="toc.html">Contents</a> | <a href="https://jckantor.github.io/CBE32338/03.00-State-Estimation.html">3.0 State Estimation</a> &gt;<p><a href="https://colab.research.google.com/github/jckantor/CBE32338/blob/master/docs/02.11-TCLab-Lab-2-Fitting.ipynb"> <img align="left" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" title="Open in Google Colaboratory"></a><p><a href="https://jckantor.github.io/CBE32338/02.11-TCLab-Lab-2-Fitting.ipynb"> <img align="left" src="https://img.shields.io/badge/Github-Download-blue.svg" alt="Download" title="Download Notebook"></a></p>
 
 </div>
 </div>
+</div>
+
+
+
+    
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># IMPORT DATA FILES USED BY THIS NOTEBOOK</span>
+<span class="kn">import</span> <span class="nn">os</span><span class="o">,</span>  <span class="nn">requests</span>
+
+<span class="n">file_links</span> <span class="o">=</span> <span class="p">[(</span><span class="s2">&quot;data/tclab-data.csv&quot;</span><span class="p">,</span> <span class="s2">&quot;https://jckantor.github.io/CBE32338/data/tclab-data.csv&quot;</span><span class="p">)]</span>
+
+<span class="c1"># This cell has been added by nbpages. Run this cell to download data files required for this notebook.</span>
+
+<span class="k">for</span> <span class="n">filepath</span><span class="p">,</span> <span class="n">fileurl</span> <span class="ow">in</span> <span class="n">file_links</span><span class="p">:</span>
+    <span class="n">stem</span><span class="p">,</span> <span class="n">filename</span> <span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="n">filepath</span><span class="p">)</span>
+    <span class="k">if</span> <span class="n">stem</span><span class="p">:</span>
+        <span class="k">if</span> <span class="ow">not</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">exists</span><span class="p">(</span><span class="n">stem</span><span class="p">):</span>
+            <span class="n">os</span><span class="o">.</span><span class="n">mkdir</span><span class="p">(</span><span class="n">stem</span><span class="p">)</span>
+    <span class="k">if</span> <span class="ow">not</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">isfile</span><span class="p">(</span><span class="n">filepath</span><span class="p">):</span>
+        <span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="n">filepath</span><span class="p">,</span> <span class="s1">&#39;wb&#39;</span><span class="p">)</span> <span class="k">as</span> <span class="n">f</span><span class="p">:</span>
+            <span class="n">response</span> <span class="o">=</span> <span class="n">requests</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="n">fileurl</span><span class="p">)</span>
+            <span class="n">f</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="n">response</span><span class="o">.</span><span class="n">content</span><span class="p">)</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
 </div>
 
 
@@ -14815,7 +14847,7 @@ $$\begin{bmatrix}\frac{0.0001536 s^2}{s^4 + 0.03957 s^3 + 0.0001796 s^2}&\frac{7
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <p><!--NAVIGATION-->
-&lt; <a href="https://jckantor.github.io/CBE32338/02.10-TCLab-Lab-2-Model-Indentification.html">2.10 TCLab Lab 2: Model Identification</a> | <a href="toc.html">Contents</a> | <a href="https://jckantor.github.io/CBE32338/03.00-State-Estimation.html">3.0 State Estimation</a><p><a href="https://colab.research.google.com/github/jckantor/CBE32338/blob/master/docs/02.11-TCLab-Lab-2-Fitting.ipynb"> <img align="left" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" title="Open in Google Colaboratory"></a><p><a href="https://jckantor.github.io/CBE32338/02.11-TCLab-Lab-2-Fitting.ipynb"> <img align="left" src="https://img.shields.io/badge/Github-Download-blue.svg" alt="Download" title="Download Notebook"></a></p>
+&lt; <a href="https://jckantor.github.io/CBE32338/02.10-TCLab-Lab-2-Model-Indentification.html">2.10 TCLab Lab 2: Model Identification</a> | <a href="toc.html">Contents</a> | <a href="https://jckantor.github.io/CBE32338/03.00-State-Estimation.html">3.0 State Estimation</a> &gt;<p><a href="https://colab.research.google.com/github/jckantor/CBE32338/blob/master/docs/02.11-TCLab-Lab-2-Fitting.ipynb"> <img align="left" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" title="Open in Google Colaboratory"></a><p><a href="https://jckantor.github.io/CBE32338/02.11-TCLab-Lab-2-Fitting.ipynb"> <img align="left" src="https://img.shields.io/badge/Github-Download-blue.svg" alt="Download" title="Download Notebook"></a></p>
 
 </div>
 </div>
